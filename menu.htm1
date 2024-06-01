@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .menu-section {
+            margin-bottom: 40px;
+        }
+        .menu-item {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .menu-item h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Restaurant Menu</h1>
+    <div class="menu-section">
+        <h2>Appetizers</h2>
+        <div class="menu-item">
+            <h2>Spring Rolls</h2>
+            <p>Description of spring rolls.</p>
+            <p>Price: $5.99</p>
+        </div>
+        <div class="menu-item">
+            <h2>Garlic Bread</h2>
+            <p>Description of garlic bread.</p>
+            <p>Price: $3.99</p>
+        </div>
+    </div>
+    <div class="menu-section">
+        <h2>Main Courses</h2>
+        <div class="menu-item">
+            <h2>Grilled Salmon</h2>
+            <p>Description of grilled salmon.</p>
+            <p>Price: $15.99</p>
+        </div>
+        <div class="menu-item">
+            <h2>Steak</h2>
+            <p>Description of steak.</p>
+            <p>Price: $19.99</p>
+        </div>
+    </div>
+    <div class="menu-section">
+        <h2>Desserts</h2>
+        <div class="menu-item">
+            <h2>Chocolate Cake</h2>
+            <p>Description of chocolate cake.</p>
+            <p>Price: $6.99</p>
+        </div>
+        <div class="menu-item">
+            <h2>Ice Cream</h2>
+            <p>Description of ice cream.</p>
+            <p>Price: $4.99</p>
+        </div>
+    </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .menu-section {
+            margin-bottom: 40px;
+        }
+        .menu-item {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 10px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .menu-item h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Restaurant Menu</h1>
+    <div class="menu-section">
+        <h2>Appetizers</h2>
+        <div class="menu-item">
+            <h2>Spring Rolls</h2>
+            <p>Description of spring rolls.</p>
+            <p>Price: $5.99</p>
+        </div>
+        <div class="menu-item">
+            <h2>Garlic Bread</h2>
+            <p>Description of garlic bread.</p>
+            <p>Price: $3.99</p>
+        </div>
+    </div>
+    <div class="menu-section">
+        <h2>Main Courses</h2>
+        <div class="menu-item">
+            <h2>Grilled Salmon</h2>
+            <p>Description of grilled salmon.</p>
+            <p>Price: $15.99</p>
+        </div>
+        <div class="menu-item">
+            <h2>Steak</h2>
+            <p>Description of steak.</p>
+            <p>Price: $19.99</p>
+        </div>
+    </div>
+    <div class="menu-section">
+        <h2>Desserts</h2>
+        <div class="menu-item">
+            <h2>Chocolate Cake</h2>
+            <p>Description of chocolate cake.</p>
+            <p>Price: $6.99</p>
+        </div>
+        <div class="menu-item">
+            <h2>Ice Cream</h2>
+            <p>Description of ice cream.</p>
+            <p>Price: $4.99</p>
+        </div>
+    </div>
+</body>
+</html>
